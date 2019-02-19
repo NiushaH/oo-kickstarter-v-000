@@ -16,5 +16,5 @@ end
 
 
 
-
+jobs = Backer.new("Steve Jobs")
 ipod.add_backer(jobs)
